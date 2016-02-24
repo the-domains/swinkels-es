@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SWINKELS.ES]]></title>
         <description><![CDATA[SWINKELS.ES]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/swinkels-es/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 21:27:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 21:29:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/swinkels-es/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Transforming Anger into Passion]]></title>
+            <description><![CDATA[<article><h1>Transforming Anger into Passion</h1><p>You have unlimited energy inside!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/512692a94ff734a9972ac22f28a7353779e166e0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/swinkels-es/transforming-anger-into-passion/index.html</link>
+            <guid isPermaLink="false">23541891-aa64-4c43-a07c-23b818be6155</guid>
+            <pubDate>Wed, 24 Feb 2016 21:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d963d0-fab8-435f-9d3f-4b50828d83c2.jpg">]]></description>
-            <link>undefinedbf09860d-774b-4dfb-96fa-c600f1d30ebc/index.html</link>
+            <link>https://thegrid.ai/swinkels-es/bf09860d-774b-4dfb-96fa-c600f1d30ebc/index.html</link>
             <guid isPermaLink="false">bf09860d-774b-4dfb-96fa-c600f1d30ebc</guid>
             <pubDate>Wed, 24 Feb 2016 21:27:15 GMT</pubDate>
         </item>
