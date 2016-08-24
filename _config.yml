@@ -1,4 +1,3 @@
-layout_spectrum: 0.21299630706198514
 typography_spectrum: 0.26071277423761785
 color:
   saturation: 0.8818917
@@ -11,6 +10,7 @@ color:
     - '#1F65D0'
     - '#07392A'
   lightness: 0.8116232
+layout_spectrum: 0.21299630706198514
 name: deBewusteSamenleving.nl
 collections:
   - index:
@@ -24,4 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: De Bewuste Samenleving
+title: Swinkels
