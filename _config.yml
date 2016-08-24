@@ -1,3 +1,4 @@
+typography_spectrum: 0.1620735
 color:
   saturation: 0.8818917
   brandStrength: 0
@@ -9,6 +10,8 @@ color:
     - '#1F65D0'
     - '#07392A'
   lightness: 0.8116232
+layout_spectrum: 0.7334557
+name: deBewusteSamenleving.nl
 collections:
   - index:
       path: /
@@ -21,6 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7334557
-typography_spectrum: 0.1620735
-name: SWINKELS.ES
+title: De Bewuste Samenleving
